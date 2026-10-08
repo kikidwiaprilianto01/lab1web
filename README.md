@@ -1,5 +1,5 @@
 # Laporan Praktikum 1: Pemrograman Web - HTML Dasar
-https://github.com/kikidwiaprilianto01/lab1web/blob/main/README.md
+
 Nama : Kiki Dwi Aprilianto
 Nim : 312510422
 Kelas : I251D
